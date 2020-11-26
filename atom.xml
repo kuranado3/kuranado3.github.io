@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>KURANADO</title>
+  
+  <subtitle>KURANADO BLOG</subtitle>
+  <link href="http://kuranado3.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://kuranado3.github.io/"/>
+  <updated>2020-11-26T07:54:05.000Z</updated>
+  <id>http://kuranado3.github.io/</id>
+  
+  <author>
+    <name>[object Object]</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://kuranado3.github.io/2020/11/26/Hello%20World/"/>
+    <id>http://kuranado3.github.io/2020/11/26/Hello%20World/</id>
+    <published>2020-11-26T06:54:13.000Z</published>
+    <updated>2020-11-26T07:54:05.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello World</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Hello World&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="java" scheme="http://kuranado3.github.io/tags/java/"/>
+    
+    <category term="vue" scheme="http://kuranado3.github.io/tags/vue/"/>
+    
+  </entry>
+  
+</feed>
