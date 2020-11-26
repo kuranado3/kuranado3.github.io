@@ -41,4 +41,29 @@
     
   </entry>
   
+  <entry>
+    <title>Hello World2</title>
+    <link href="http://kuranado3.github.io/2020/11/26/Hello%20World2/"/>
+    <id>http://kuranado3.github.io/2020/11/26/Hello%20World2/</id>
+    <published>2020-11-26T06:54:13.000Z</published>
+    <updated>2020-11-26T09:50:03.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello World2</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Hello World2&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="java" scheme="http://kuranado3.github.io/tags/java/"/>
+    
+    <category term="vue" scheme="http://kuranado3.github.io/tags/vue/"/>
+    
+  </entry>
+  
 </feed>
