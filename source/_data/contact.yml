@@ -1,0 +1,9 @@
+- title: github
+  icon: icon-github
+  link: https://github.com/kuranado3
+- title: email
+  icon: icon-email
+  link: mailto:jingxinling2048@163.com
+- title: rss
+  icon: icon-rss
+  link: /atom.xml
